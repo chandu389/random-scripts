@@ -12,7 +12,7 @@
   },
   "label_template": "${COUNT}",
   "enable_pipeline_locking": true,
-  "name": "test23rdjun4",
+  "name": "demoConfig1",
   "template": null,
   "parameters": [
 
