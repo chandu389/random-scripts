@@ -12,7 +12,7 @@
   },
   "label_template": "${COUNT}",
   "enable_pipeline_locking": true,
-  "name": "demoConfig1",
+  "name": "demoConfig2",
   "template": null,
   "parameters": [
 
